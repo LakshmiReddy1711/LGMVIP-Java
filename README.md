@@ -1,5 +1,6 @@
 # LGMVIP-Java
 01 CREATE A CURRENCY CONVERTOR IN JAVA
+-----------------------------------------
 
 Technologies Required - Java programming language, Java Servlets Web Features, Applet, and Ajax.
 
@@ -9,7 +10,8 @@ A web-based interface for converting currency and getting the output value, for 
 
 We see variations with different countries using different currencies. Be aware of the current exchange prices in the market and then can convert from one currency to another. A calculator-like application, developed using Ajax, Applet, and web features of Java servlets. You also get a regular update when there’s a change in the value of the country’s currency and also the conversion rate. 
 
-02  CREATE A TIC-TAC-TOE GAME  
+02  CREATE A TIC-TAC-TOE GAME 
+-------------------------------
 
 Create a Tic-Tac-Toe Game  web application using Java
 
@@ -20,6 +22,7 @@ Project Description
 The game starts with two players as active members, having a one-print board on the screen which displays 9 boxes (i.e., 3×3). The first person who starts the game has to enter either X or O for any one box, followed by the other player entering the other X or O (opposite to what the first player has entered). this continues unless any one of them gets a line cut either diagonally or straight. And the person who founds the line is the winner of the game.
 
 03 CREATE A SCIENTIFIC CALCULATOR 
+----------------------------------
 
  Create a Scientific Calculator in Java
 
